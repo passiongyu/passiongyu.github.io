@@ -323,5 +323,5 @@ defaults:
       comments: # true
       share: true
       related: true
-      show-date: true
-date-format: "%Y-%m-%d"
+      show_date: true
+date_format: "%Y-%m-%d"
